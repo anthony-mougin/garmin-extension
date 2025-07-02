@@ -1,0 +1,15 @@
+.btn.delete-workouts {
+    background-color: red;
+
+    &:hover, &:focus {
+        background-color: darkred;
+    }
+
+    &:disabled {
+        background-color: darkred;
+
+        &:hover {
+            background-color: darkred;
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "garmin-connect-tools",
+  "version": "1.0.1",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "node index.js"
+  },
+  "dependencies": {
+    "archiver": "^7.0.1"
+  }
+}

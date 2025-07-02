@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Garmin Connect Tools"
+  },
+  "extensionDescription": {
+    "message": "Cette extension améliore les fonctionnalités de Garmin Connect."
+  },
+  "deleteSelectedWorkouts": {
+    "message": "Supprimer les entraînements sélectionnés"
+  }
+}
