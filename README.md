@@ -1,73 +1,70 @@
-# 🚀 Garmin Connect Extended
+# 🚀 Garmin Connect Tools
 
-Une extension de navigateur pour améliorer l'interface de Garmin Connect et y ajouter des fonctionnalités qui simplifient la vie, comme la suppression en masse d'activités.
+A browser extension to improve the Garmin Connect interface and add quality-of-life features, such as bulk activity deletion.
 
 ## ✨ Introduction
 
-Frustré par l'impossibilité de supprimer plusieurs activités à la fois sur le site de Garmin Connect ? Cette extension a été créée pour résoudre ce problème et ajouter d'autres améliorations de confort au fil du temps. L'objectif est de rendre la gestion de vos données sportives plus rapide et plus intuitive.
+Frustrated with not being able to delete multiple workouts at once on the Garmin Connect website? This extension was created to solve that problem and add other quality-of-life improvements over time. The goal is to make managing your sports data faster and more intuitive.
 
-## 🎯 Fonctionnalités principales
+## 🎯 Main Features
 
-  * **Suppression en masse des activités** : Sélectionnez plusieurs entraînements directement depuis la liste et supprimez-les en un seul clic. Fini le temps perdu à supprimer les activités une par une \!
-  * *(D'autres fonctionnalités sont prévues pour l'avenir \!)*
+  * **Bulk Workout Deletion**: Select multiple workouts directly from the list and delete them in a single click. No more time wasted deleting activities one by one\!
+  * *(More features are planned for the future\!)*
 
 -----
 
 ## 🔧 Installation
 
-### 1\. Depuis les stores officiels (prochainement)
+### 1\. From Official Stores (Coming Soon)
 
-L'extension sera bientôt disponible sur les stores officiels pour une installation simple et sécurisée.
+The extension will soon be available on official stores for a simple and secure installation.
 
-  * [Chrome Web Store](https://chrome.google.com/webstore) (Lien à venir)
-  * [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons) (Lien à venir)
-  * [Modules pour Firefox](https://addons.mozilla.org/) (Lien à venir)
+  * [Chrome Web Store](https://chrome.google.com/webstore) (Link to come)
+  * [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons) (Link to come)
+  * [Firefox Browser ADD-ONS](https://addons.mozilla.org/) (Link to come)
 
-### 2\. Depuis le code source (pour les développeurs)
+### 2\. From Source Code (for Developers)
 
-Si vous souhaitez installer l'extension manuellement ou contribuer au projet :
+If you want to install the extension manually or contribute to the project:
 
-1.  Clonez ce dépôt sur votre machine locale :
+1.  Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/votre-nom/votre-repo.git
+    git clone https://github.com/anthony-mougin/garmin-extension.git
     ```
-2.  Ouvrez votre navigateur (Chrome, Edge, etc.).
-3.  Rendez-vous sur la page de gestion des extensions :
-      * Pour Chrome : `chrome://extensions`
-      * Pour Edge : `edge://extensions`
-4.  Activez le **Mode développeur** (généralement un interrupteur en haut à droite).
-5.  Cliquez sur **"Charger l'extension non empaquetée"**.
-6.  Sélectionnez le dossier du projet que vous venez de cloner.
-7.  L'extension est maintenant installée et active \!
+2.  Open your browser (Chrome, Edge, etc.).
+3.  Go to the extension management page:
+      * For Chrome: `chrome://extensions`
+      * For Edge: `edge://extensions`
+4.  Enable **Developer Mode** (usually a toggle switch in the top right).
+5.  Click on **"Load unpacked"**.
+6.  Select the **lib** folder from the project you just cloned.
+7.  The extension is now installed and active\!
 
 -----
 
-## 📖 Comment l'utiliser
+## 📖 How to Use
 
-Une fois l'extension installée, son utilisation est très simple :
+Once the extension is installed, using it is very simple:
 
-1.  Connectez-vous à votre compte et rendez-vous sur la liste de vos activités sur [Garmin Connect](https://connect.garmin.com/modern/activities).
-2.  De nouvelles **cases à cocher** apparaîtront à côté de chaque activité.
-3.  Sélectionnez toutes les activités que vous souhaitez supprimer.
-4.  Un nouveau bouton **"Supprimer la sélection"** sera visible en haut de la liste. Cliquez dessus.
-5.  Confirmez votre choix, et voilà \!
-
-  
-*(Pensez à remplacer ce lien par une capture d'écran ou un GIF de votre extension)*
+1.  Log in to your account and go to your activities list on [Garmin Connect](https://connect.garmin.com/modern/activities).
+2.  New **checkboxes** will appear next to each activity.
+3.  Select all the activities you want to delete.
+4.  A new **"Delete Selection"** button will be visible at the top of the list. Click on it.
+5.  Confirm your choice, and let the extension do the work\!
 
 -----
 
-## 🤝 Contribution
+## 🤝 Contributing
 
-Les contributions sont les bienvenues \! Si vous avez des idées d'amélioration ou des corrections de bugs, n'hésitez pas à :
+Contributions are welcome\! If you have ideas for improvements or bug fixes, feel free to:
 
-  * Ouvrir une "Issue" pour en discuter.
-  * Créer une "Pull Request" avec vos modifications.
+  * Open an "Issue" to discuss it.
+  * Create a "Pull Request" with your changes.
 
-## 📄 Licence
+## 📄 License
 
-Ce projet est distribué sous la licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+This project is distributed under the MIT License. See the `LICENSE` file for more details.
 
-## ⚠️ Avertissement
+## ⚠️ Disclaimer
 
-Ce projet est une extension non officielle et n'est en aucun cas affilié, sponsorisé ou approuvé par Garmin Ltd. Utilisez-la à vos propres risques.
+This project is an unofficial extension and is in no way affiliated with, sponsored, or endorsed by Garmin Ltd. Use it at your own risk.
